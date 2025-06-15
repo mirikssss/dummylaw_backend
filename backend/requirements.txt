@@ -8,3 +8,5 @@ sqlalchemy
 passlib[argon2]
 pydantic
 python-dotenv 
+email-validator
+pydantic[email]
